@@ -18,27 +18,27 @@ FilmVault'ı bilgisayarınızda çalıştırmak için aşağıdaki adımları iz
 
 Öncelikle projeyi kendi bilgisayarınıza klonlayın:
 
-```bash
+
 git clone https://github.com/kullaniciAdiniz/FilmVault.git
-2️⃣ Bağımlılıkları Yükleyin
+###2️⃣ Bağımlılıkları Yükleyin
 Projeye gitmek için terminalde şu komutu yazın ve gerekli bağımlılıkları yükleyin:
 
 bash
-Copy code
+
 cd FilmVault
 npm install
-3️⃣ Veritabanı Bağlantısını Yapın
+###3️⃣ Veritabanı Bağlantısını Yapın
 Veritabanı bağlantı bilgilerini config dosyasına girin.
 
-4️⃣ Uygulamayı Başlatın
+###4️⃣ Uygulamayı Başlatın
 Uygulamayı başlatmak için şu komutu kullanın:
 
 bash
-Copy code
+
 npm start
 Artık uygulamanız tarayıcınızda çalışmaya başlayacak.
 
-🛠️ Kullanım
+####🛠️ Kullanım
 FilmVault'ı kullanmaya başlamak için şu adımları takip edin:
 
 Uygulamayı başlatın ve giriş yapın ya da yeni bir hesap oluşturun.
@@ -53,7 +53,7 @@ Yönetici: Film ekleme, düzenleme, silme.
 
 Kullanıcı: Film arama, favorilere ekleme, listeye ekleme, puan verme.
 
-📌 Özellikler
+#####📌 Özellikler
 Koleksiyon Yönetimi: Yalnızca yönetici filmleri ekler ve düzenler.
 
 Arama & Filtreleme: Kullanıcılar filmler üzerinde hızlı arama yapabilir ve kategorilere göre filtreleyebilirsiniz.
@@ -64,7 +64,7 @@ Değerlendirme Puanı: Kullanıcılar, izledikleri filmleri puanlayabilirler.
 
 Kullanıcı ve Yönetici Rolleri: Admin ve kullanıcılar farklı erişim haklarına sahiptir.
 
-🧑‍💻 Katkıda Bulunma
+######🧑‍💻 Katkıda Bulunma
 Projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
 
 Bu depo üzerinde bir fork oluşturun.
